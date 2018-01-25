@@ -13,4 +13,4 @@ Create a new branch is quick and simple.
 Create a new branch is quick and simple.
 >>>>>>> feature1
 abcadd
-this a test.
+this a test area.
